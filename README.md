@@ -1,6 +1,5 @@
 ### Hi there, Chetna here.👋
 
-![Chetna Arora]
 
 Logical and result-driven full-stack designer & developer dedicated to building and optimising user focused-websites and applications. Judicious and creative when crafting effective websites, apps and platforms to propel competitive advantage and revenue growth. Technically proficient and analytical problem solver with a calm and focused demeanour.
 
