@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter, Go
 💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
 - 📫 How to reach me: chetnaarora1997@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
